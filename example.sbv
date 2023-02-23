@@ -1,0 +1,33 @@
+0:00:04.000,0:00:05.000
+1
+
+0:00:05.000,0:00:06.000
+12
+
+0:00:06.000,0:00:07.000
+12/
+
+0:00:07.000,0:00:08.000
+12/2
+
+0:00:08.000,0:00:09.000
+12/2=
+
+0:00:09.000,0:00:10.000
+6
+
+0:00:10.000,0:00:11.000
+Why set to empty math that:
+undefined
+
+0:00:11.000,0:00:12.000
+Why a set to sin bug:
+function i(e,t){return(arguments.length===z&&h(e)&&b(t)?O:arguments.length===R&&d(e)&&w(t)?C:arguments.length===q&&y(e)&&N(t)?T:arguments.length===B&&g(e)&&M(t)?_:arguments.length===D&&v(e)&&E(t)?I:arguments.length===j&&x(e)&&S(t)?k:function(){for(var e=P;eF;e++)if(m[e](arguments))return A[e].apply(this,arguments);return U.onMismatch(r,arguments,o)}).apply(i,arguments)}
+
+0:00:12.000,0:00:13.000
+Why set to pi:
+3.141592653589793
+
+0:00:13.000,0:00:14.000
+Why set to -208-1:
+-207
